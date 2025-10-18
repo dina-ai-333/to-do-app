@@ -15,4 +15,5 @@ function dodajOpravilo() {
 }
 function pozdrav() {
     console.log("Pozdrav iz main veje");
+    console.log("Pozdrav iz konflikt-veje");
 }
