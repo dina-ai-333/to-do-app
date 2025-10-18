@@ -13,3 +13,6 @@ function dodajOpravilo() {
   document.getElementById('taskList').appendChild(li);
   input.value = '';
 }
+function pozdrav() {
+    console.log("Pozdrav iz konflikt-veje");
+}
