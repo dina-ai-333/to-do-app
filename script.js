@@ -17,3 +17,4 @@ function pozdrav() {
     console.log("Pozdrav iz main veje");
     console.log("Pozdrav iz konflikt-veje");
 }
+console.log("Non-fast-forward sprememba v main veji");
