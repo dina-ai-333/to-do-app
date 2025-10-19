@@ -1,0 +1,15 @@
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Urejevalniki
+.vscode/
+
+# Log datoteke
+*.log
+
+# Okoljske spremenljivke
+.env
+
+# Odvisnosti
+node_modules/
