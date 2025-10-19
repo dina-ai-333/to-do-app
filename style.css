@@ -10,3 +10,6 @@ input, button {
 li {
   margin: 0.5rem 0;
 }
+button {
+    border-radius: 6px;
+}
